@@ -1,10 +1,3 @@
-
-#first github project.
-
-import os
-os.system('clear')
-
-
 a = eval(input("enter: "))
 b = eval(input("enter: "))
 
