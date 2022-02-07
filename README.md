@@ -1,5 +1,5 @@
 # cal-py
-oscp(open-Source-Simple-Cal-py)
+oscp(open-Source-Simple-Calculator-py(cli))
 
 #Use:
 
