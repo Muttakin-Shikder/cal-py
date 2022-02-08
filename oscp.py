@@ -15,7 +15,7 @@ print("Subtraction(-): ",m)
 print("Division(/): ",d)
 print("Floor division(//): ",fd)
 print("Division's reminder(%): ",mo)
-print("Multiplication(x): ",Mul)
+print("Multiplication(*): ",Mul)
 
 
 
